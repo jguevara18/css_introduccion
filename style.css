@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-position:center;
+    background-image: url(./color.jpg);
+}
+
+.header__maintitle {
+    text-align: center;
+}
+
+.header__maintittle__paragraph {
+    text-align: center;
+}
+.header__nav__button:hover {
+    background-color: aqua;
+    color: blueviolet;
+}
